@@ -74,4 +74,4 @@ please, open a merge request to include your specs and details!
 | Broken  | NVIDIA GTX 1070, AMD Ryzen 7 1700X Eight-Core Processor | 3.3.0              | NVIDIA 515.76 (Proprietary)         | 5.19.12-arch1-1               | x11          | GNOME 42        |
 | Working | Rembrandt, AMD Ryzen 7 6800U with Radeon Graphics       | 4.6 (Core Profile) | Mesa 22.3.0-devel (4.60)            | 5.19.14-201.fsync.fc36.x86_64 | wayland      | GNOME 42        |
 | Working | Rembrandt, AMD Ryzen 7 6800U with Radeon Graphics       | 4.6 (Core Profile) | Mesa 22.3.0-devel (4.60)            | 5.19.14-201.fsync.fc36.x86_64 | x11          | GNOME 42        |
-
+| Working | Mesa Intel(R) Xe Graphics (TGL GT2)                     | 4.6 (Core Profile) | Mesa 22.0.1                         | 5.17.5-300.fc36.x86_64                         | wayland      | GNOME 42        |
